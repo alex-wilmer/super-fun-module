@@ -1,6 +1,6 @@
 {
   "name": "super-fun-module-thingy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "this module hopefully wont suck",
   "main": "index.js",
   "scripts": {
