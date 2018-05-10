@@ -1,4 +1,5 @@
-let doAThing = props => `hey hey ${props} are what you say!!!!!`
+let Thing = props => 
+  <h1>ey hey {props.message}</h1>  
 
 
-module.exports = doAThing
+module.exports = Thing
